@@ -8,7 +8,7 @@
       <img align="left" alt="FixCore1 | Twitter" width="22px" src="https://gist.githubusercontent.com/hail2u/2884613/raw/0216962914635ef6e8e5389dd57a0e06f209fd72/twitter-bird.svg" />
     </a>
     <a href="https://www.linkedin.com/in/camoreno765/">
-      <img align="left" alt="Alejandro's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+      <img align="left" alt="Alejandro's LinkedIN" width="22px" src="https://www.svgrepo.com/show/922/linkedin.svg" />
     </a>
   </span>
   
