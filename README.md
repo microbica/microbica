@@ -27,7 +27,7 @@
 </table>
 
 - From [Bogotá](https://www.google.com/maps/place/Bogot%C3%A1/@4.6482837,-74.2478938,11z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9bfd2da6cb29:0x239d635520a33914!8m2!3d4.7109886!4d-74.072092) ☂
-- 📫 [Contact me](mailto:camoreno@condorlabs.io)
+- 📫 [Contact me](mailto:develop.km14@gmail.com)
 - ![build](https://github.com/mopig/mopig/workflows/build/badge.svg) ![](https://visitor-badge.glitch.me/badge?page_id=pixplix) 
 
 
@@ -48,10 +48,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
-<a href="https://condorlabs.io/" target="_blank">
-  <img src="https://c.na65.content.force.com/servlet/servlet.ImageServer?id=0150h0000056P9rAAE&oid=00DE0000000c48tMAA" height="100"/>
-</a>
 
 ---
 
