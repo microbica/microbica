@@ -1,4 +1,3 @@
-
 <h1 align="center">
   <img src="https://github.com/user-attachments/assets/87e0f408-00c8-4bf6-bbd3-146eb16780ff" alt="Alejandro Moreno" />
 </h1>
@@ -22,37 +21,48 @@
   ♎ I am very hardworking, I detest incomplete works, I always put my best in every problem I face to deliver the best result. 🍕
 </p>
 
-<img align="right" alt="GIF" src="https://github.com/user-attachments/assets/9d4163b2-4c13-498f-a50f-ca83c36e485c" />
+<div align="center">
+  <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/9d4163b2-4c13-498f-a50f-ca83c36e485c" width="250" />
+</div>
 
-<table align="right">
- <tr><td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png" height="13"> English</a></td></tr>
- <tr><td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/2560px-Flag_of_Colombia.svg.png" height="13"> Spanish</a></td></tr>
+<table align="center">
+ <tr>
+  <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png" height="13"> English</a></td>
+ </tr>
+ <tr>
+  <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/2560px-Flag_of_Colombia.svg.png" height="13"> Spanish</a></td>
+ </tr>
 </table>
 
 ### 📫 Like to meet me?
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<a href="https://calendly.com/amoreno765/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-
+<div align="center">
+  <a href="https://calendly.com/amoreno765/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+</div>
 
 - From [Bogotá](https://www.google.com/maps/place/Bogot%C3%A1/@4.6482837,-74.2478938,11z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9bfd2da6cb29:0x239d635520a33914!8m2!3d4.7109886!4d-74.072092) ☂
 - 📫 [Contact me](mailto:develop.km14@gmail.com)
 
 **languages and tools:**  
 
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
-![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=007ACC)&nbsp; 
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=336633)&nbsp;
+<p align="center">
+  ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
+  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
+  ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=007ACC)&nbsp; 
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=336633)&nbsp;
+</p>
 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<p align="center">
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+</p>
 
 <img align="right" alt="Created At" src="https://komarev.com/ghpvc/?username=microbica" /> 
 
@@ -64,20 +74,21 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 | --- | --- | --- | --- | --- |
 
 
-
 ---
 
 ### ☕ Support
 
 If you like what I do, consider buying me a coffee/tea 🥺👉👈
 
-<a href="http://paypal.me/camoreno765" target="_blank">
-  <img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" width="150">
-</a>
+<p align="center">
+  <a href="http://paypal.me/camoreno765" target="_blank">
+    <img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" width="150">
+  </a>
+</p>
 
 ---
 
-```
+```markdown
                                       ____                  ____                      
                                      / __ \___  ___ ___    / __/__  __ _____________  
                                     / /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
@@ -87,4 +98,3 @@ If you like what I do, consider buying me a coffee/tea 🥺👉👈
                                      / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
                                     /___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
                                                      /___/                /___/       
-```
