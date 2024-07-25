@@ -27,10 +27,10 @@
 
 <table align="right">
  <tr>
-  <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png" height="13"> English</a></td>
+  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png" height="13"> English</a></td>
  </tr>
  <tr>
-  <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/2560px-Flag_of_Colombia.svg.png" height="13"> Spanish</a></td>
+  <td><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Flag_of_Colombia.svg/2560px-Flag_of_Colombia.svg.png" height="13"> Spanish</a></td>
  </tr>
 </table>
 
