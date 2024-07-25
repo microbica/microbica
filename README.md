@@ -25,7 +25,7 @@
   <img align="right" alt="GIF" src="https://github.com/user-attachments/assets/9d4163b2-4c13-498f-a50f-ca83c36e485c" width="250" />
 </div>
 
-<table align="center">
+<table align="right">
  <tr>
   <td><a href="#"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Flag_of_the_United_States.svg/2560px-Flag_of_the_United_States.svg.png" height="13"> English</a></td>
  </tr>
@@ -38,21 +38,21 @@
 
 Pick a slot if you'd like to meet me and chat about anything you are passionate about - but make sure to describe the agenda
 
-<div align="center">
-  <a href="https://calendly.com/amoreno765/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
-</div>
+<a href="https://calendly.com/amoreno765/30min" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
 
 - From [Bogotá](https://www.google.com/maps/place/Bogot%C3%A1/@4.6482837,-74.2478938,11z/data=!3m1!4b1!4m5!3m4!1s0x8e3f9bfd2da6cb29:0x239d635520a33914!8m2!3d4.7109886!4d-74.072092) ☂
 - 📫 [Contact me](mailto:develop.km14@gmail.com)
 
-**languages and tools:**  
+<p align="center">
+<b>languages and tools</b>
+</p>
 
 <p align="center">
-  ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp; 
-  ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=007ACC)&nbsp; 
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=336633)&nbsp;
+  <img height="20" src="https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop">
+  <img height="20" src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C">
+  <img height="20" src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC">
+  <img height="20" src="https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker&logoColor=007ACC">
+  <img height="20" src="https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb&logoColor=336633">
 </p>
 
 <p align="center">
@@ -70,8 +70,8 @@ Pick a slot if you'd like to meet me and chat about anything you are passionate 
 
 ### 🏀 Interests and Hobbies
 
-| 🏀 | 💻 | 🎮 | ⚪ | 🌱 |
-| --- | --- | --- | --- | --- |
+| 🏀 | 💻 | 🎮 | ⚪ | 🌱 | 🏍️ | 🏎️ | 🍔 |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 
 
 ---
